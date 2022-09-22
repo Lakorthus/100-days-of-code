@@ -6,7 +6,11 @@
 
 **Thoughts:** I was very confident using git and GitHub, but today explaining to someone I saw issues that we could not fix. After some research, I know where to look for the problem. 
 
-**Link to work:** [git](https://www.oreilly.com/library/view/version-control-with/9781449345037/ch04.html#:~:text=Within%20a%20repository%2C%20Git%20maintains,in%20a%20hidden%20subdirectory%20named%20)
+**Link to work:** 
+[git-oreilly](https://www.oreilly.com/library/view/version-control-with/9781449345037/ch04.html#:~:text=Within%20a%20repository%2C%20Git%20maintains,in%20a%20hidden%20subdirectory%20named%20)
+[git-dangitgit](https://dangitgit.com/en)
+[git-Intro to git](https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners)
+[git-cheat-sheet](https://education.github.com/git-cheat-sheet-education.pdf)
 
 <!-- ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
