@@ -9,7 +9,7 @@
 **Link(s) to work:** 
 1. [git-oreilly](https://www.oreilly.com/library/view/version-control-with/9781449345037/ch04.html#:~:text=Within%20a%20repository%2C%20Git%20maintains,in%20a%20hidden%20subdirectory%20named%20)
 2. [git-dangitgit](https://dangitgit.com/en)
-3. [git-Intro to git](https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners)
+3. [git-Intro-to-git](https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners)
 4. [git-cheat-sheet](https://education.github.com/git-cheat-sheet-education.pdf)
 
 <!-- ### Day 0: February 30, 2016 (Example 2)
