@@ -4,7 +4,7 @@
 
 **Today's Progress**: I have joined the 100 days of code challenge and reviewed documentation about Git.
 
-**Thoughts:** I was very confident using git and GitHub, but today explaining to someone I saw issues that we could not fix. After some research, I know where to look for the problem. 
+**Thoughts:** I was very confident using git and GitHub, but today explaining to someone I saw issues that we could not fix. After some research, I know where to look for the solution. 
 
 **Link(s) to work:** 
 1. [git-oreilly](https://www.oreilly.com/library/view/version-control-with/9781449345037/ch04.html#:~:text=Within%20a%20repository%2C%20Git%20maintains,in%20a%20hidden%20subdirectory%20named%20)
