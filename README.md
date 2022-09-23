@@ -12,6 +12,12 @@
 3. [git-Intro-to-git](https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners)
 4. [git-cheat-sheet](https://education.github.com/git-cheat-sheet-education.pdf)
 
+### Day 1: Sep 23, Friday
+
+**Today's Progress**: I have gone through many exercises on #codeWars to practice my javaScript. I also work on my lightweight library "Caimito", like the exotic fruit from South America, created to make Sass easy, fun and customisable.
+
+**Thoughts** I have recently started coding, and when I look back, it makes me proud of how much I have learned since April. I have much more to learn, but I also have to celebrate my accomplishments.
+
 <!-- ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
 
