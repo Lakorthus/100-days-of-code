@@ -20,7 +20,7 @@
 
 ### Day 2: Sep 24, Saturday 2022
 
-**Today's Progress**: Deeper understanding of the fundamentals of Web apps:
+**Today's Progress**: A deeper understanding of the fundamentals of Web apps:
 1. HTTP GET
 2. Forms and HTTP POST
 3. AJAX
