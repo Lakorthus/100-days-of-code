@@ -28,6 +28,21 @@
 
 **Thoughts**: I struggled with Web Sequence Diagrams and Forms and HTTP POST, but I feel like I am slowly getting better at it. This subject needs further studies to practice my understanding.
 
+### Day 3: Sep 25, Sunday 2022
+
+**Today's Progress**: Review fundamental core concepts of JavaScript:
+1. Variables
+2. Arrays
+3. Objects
+4. Functions
+5. Object methods and "this".
+6. Classes
+
+Also, I have updated my IDE with VScode integrated with GitHub. Tomorrow I will be starting at the School of Code.
+
+**Thoughts** Tomorrow I will be starting at the School of Code, I can wait to give all my best.
+
+
 <!-- ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
 
