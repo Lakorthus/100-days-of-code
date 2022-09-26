@@ -42,6 +42,11 @@ Also, I have updated my IDE with VScode integrated with GitHub. Tomorrow I will 
 
 **Thoughts** Tomorrow I will be starting at the School of Code, I can wait to give all my best.
 
+### Day 4: Sep 26, Monday
+
+**Today's Progress**: On the first day of the School of Code, Chris taught us the importance of understanding the problem and looking for patterns before programming. We also talk about the different paths to learn and finish with the hero's journey. 
+
+**Thoughts** My day started as usual. I woke up and went through a couple of #codewars exercises before heading to the gym, it was now nine am, and the session of School of code was about to start, a feeling as if a great experience was about to begin struck in me. I'm so lucky and grateful for this opportunity, hoping more days like this happen more often.
 
 <!-- ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
