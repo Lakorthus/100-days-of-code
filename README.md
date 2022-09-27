@@ -48,6 +48,13 @@ Also, I have updated my IDE with VScode integrated with GitHub. Tomorrow I will 
 
 **Thoughts** My day started as usual. I woke up and went through a couple of #codewars exercises before heading to the gym, it was now nine am, and the session of School of code was about to start, a feeling as if a great experience was about to begin struck in me. I'm so lucky and grateful for this opportunity, hoping more days like this happen more often.
 
+
+### Day 5: Sep 27, Tuesday
+
+**Today's Progress**: Computational thinking and deeper understanding of GitHub and workflow when you are on teams PULL and PUSH.
+
+**Thoughts**: Great Exercises to practice problem-solving skills. I could not complete them at first but slowly got to the answers. 
+
 <!-- ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
 
