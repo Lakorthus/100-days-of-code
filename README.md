@@ -55,6 +55,12 @@ Also, I have updated my IDE with VScode integrated with GitHub. Tomorrow I will 
 
 **Thoughts**: Great Exercises to practice problem-solving skills. I could not complete them at first but slowly got to the answers. 
 
+### Day 6: Sep 28, Wednesday
+
+**Today's Progress**: Today I not only learned in-depth about while loops and if statements, but I also practised my soft skills. After classes, I transmit my little knowledge to a few beautiful people from the @theSchoolOfCode.
+
+**Thoughts**: Tough months are comming ahead, but I am ready for the challenge. 
+
 <!-- ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
 
