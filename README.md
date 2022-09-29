@@ -61,6 +61,14 @@ Also, I have updated my IDE with VScode integrated with GitHub. Tomorrow I will 
 
 **Thoughts**: Super proud of my GIT TEST 8/8. Toughs months are comming ahead, but I am ready for the challenge. 
 
+### Day 7: Sep 29, Thursday
+
+**Today's Progress**: I start my day at @theSchoolOfCode, learning about the importance of feedback, especially how to receive them. 
+
+We continue developing our teamwork skills today was working with JavaScript Objects.
+
+**Thoughts**: Great day feeling more confortable at the bootcamp. 
+
 <!-- ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
 
