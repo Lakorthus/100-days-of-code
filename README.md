@@ -75,6 +75,12 @@ We continue developing our teamwork skills today was working with JavaScript Obj
 
 **Thoughts**: Great day I ask a question successfully aswered by Lizz also I felt great staying longer to help my colleages. 
 
+### Day 9: Oct 01, Saturday
+
+**Today's Progress**: Game of Life, I have learned about the importance of testing and debugging.
+
+**Thoughts**: I cannot beleive it is already the end of the first week. I am so proud of myself for sticking to the challenge. 
+
 <!-- ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
 
