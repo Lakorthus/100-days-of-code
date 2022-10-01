@@ -77,9 +77,9 @@ We continue developing our teamwork skills today was working with JavaScript Obj
 
 ### Day 9: Oct 01, Saturday
 
-**Today's Progress**: Game of Life, I have learned about the importance of testing and debugging.
+**Today's Progress**: I have learned about the importance of testing and debugging.
 
-**Thoughts**: I cannot beleive it is already the end of the first week. I am so proud of myself for sticking to the challenge. 
+**Thoughts**: I cannot believe it is already the end of the first week. I am so proud of myself for sticking to the @schoolofcode. 
 
 <!-- ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
