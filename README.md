@@ -69,6 +69,12 @@ We continue developing our teamwork skills today was working with JavaScript Obj
 
 **Thoughts**: Great day feeling more confortable at the bootcamp. 
 
+### Day 8: Sep 30, Friday
+
+**Today's Progress**: First Hackaton we build a Tic Toc Game, I have sharpen my skills with javaScript.
+
+**Thoughts**: Great day I ask a question successfully aswered by Lizz also I felt great staying longer to help my colleages. 
+
 <!-- ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
 
