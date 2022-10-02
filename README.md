@@ -81,6 +81,11 @@ We continue developing our teamwork skills today was working with JavaScript Obj
 
 **Thoughts**: I cannot believe it is already the end of the first week. I am so proud of myself for sticking to the @schoolofcode. 
 
+### Day 10: Oct 02, Sunday
+
+**Today's Progress**: I have completed an extended version of the 'Rock Paper Scissors Spock Lizard game. Reviewing the code, I have managed to make it more efficient.
+
+**Thoughts**: I cannot believe it is already the end of the first week. I am so proud of myself for sticking to the @schoolofcode.
 <!-- ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
 
