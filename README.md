@@ -93,6 +93,15 @@ We continue developing our teamwork skills today was working with JavaScript Obj
 
 **Thoughts**: First day of feeling a bit overwhelmed, but I am sure I will get through it.
 
+### Day 12: Oct 04, Thuesday
+
+**Today's Progress**: Very encouraging talk from one of SoC mentors ! 
+Working with DOM and feeling like I know what I am doing a little bit more  specially with:
+
+.addEventListener()
+.querySelector()
+
+**Thoughts**: Looking forward what tomorrow will bring! 
 
 <!-- ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
