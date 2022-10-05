@@ -103,6 +103,12 @@ Working with DOM and feeling like I know what I am doing a little bit more  spec
 
 **Thoughts**: Looking forward what tomorrow will bring! 
 
+### Day 13: Oct 05, Wednesday
+
+**Today's Progress**: I have learned about asynchronous functions, timers and promises, fetching data from an API and using it to display on the DOM. 
+
+**Thoughts**: Positive actitud and a lot of energy to keep going. A meeting with my mentor left me feeling more confident about my future as a developer.
+
 <!-- ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
 
