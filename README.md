@@ -109,6 +109,14 @@ Working with DOM and feeling like I know what I am doing a little bit more  spec
 
 **Thoughts**: Positive actitud and a lot of energy to keep going. A meeting with my mentor left me feeling more confident about my future as a developer.
 
+### Day 14: Oct 06, Thursday
+
+**Today's Progress**: I had an eye opening lecture about peronality types and how they can affect our work, and the importance of being a good team player.
+
+@schofcode we had to do a prensentation/song about set and map data structures with group. I have learned a lot about the importance of teamwork and communication.
+
+**Thoughts**: Last day with Ryan my partner of ths week, I am going to miss him, but I am sure we will keep in touch. I learned a lot from him specially about diferent ways to solve problems.
+
 <!-- ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
 
