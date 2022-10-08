@@ -115,7 +115,23 @@ Working with DOM and feeling like I know what I am doing a little bit more  spec
 
 @schofcode we had to do a prensentation/song about set and map data structures with group. I have learned a lot about the importance of teamwork and communication.
 
-**Thoughts**: Last day with Ryan my partner of ths week, I am going to miss him, but I am sure we will keep in touch. I learned a lot from him specially about diferent ways to solve problems.
+**Thoughts**: Last day with Ryan my partner of this week, I am going to miss him, but I am sure we will keep in touch. I learned a lot from him specially about diferent ways to solve problems.
+
+### Day 15: Oct 07, Friday
+
+**Today's Progress**: Hacktaon day, we had to build a game with the data from an API. I have learned a lot about the importance of teamwork and communication.
+
+The game was a Pokedex where you can search for a pokemon and see its image name and type, displaying it on the DOM.
+
+Using mostly JavaScript and few lines of HTML and CSS.
+
+**Thoughts**: Great last day with Ryan, I have build great friendships with my team mates. What a great week!
+
+### Day 16: Oct 08, Saturday
+
+**Today's Progress**: Today I felt great about my progress and being able to help my lovely teammates at @schoolofcode, reviewing lessons from last week and practising my skills on DOM manipulation and event listeners. Happy to be part of this community 🫶
+
+**Thoughts**: Sticking to my goals and being able to help others is what makes me feel great.
 
 <!-- ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
