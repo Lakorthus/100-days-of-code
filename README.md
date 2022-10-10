@@ -133,6 +133,21 @@ Using mostly JavaScript and few lines of HTML and CSS.
 
 **Thoughts**: Sticking to my goals and being able to help others is what makes me feel great.
 
+### Day 17: Oct 09, Sunday
+
+**Today's Progress**: Sunday of the second week of @schoolofcode, day of review and reflection about my further goals. I have learned a lot about the importance of teamwork and communication.
+
+**Thoughts**: I am so greatful of all the supoort I have received from my team mates and mentors.
+
+### Day 18: Oct 10, Monday
+
+**Today's Progress**: Today I went back to the beginning when I had sleepless nights working on my skills in HTML and CSS with frontmentor.io.
+
+I also have learned at school Agile methodology and how to use it in my daily life.
+
+
+**Thoughts**: I had forgotten how fun is to build a website from scratch.
+
 <!-- ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
 
