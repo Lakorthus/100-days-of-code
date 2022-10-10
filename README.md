@@ -143,7 +143,7 @@ Using mostly JavaScript and few lines of HTML and CSS.
 
 **Today's Progress**: Today I went back to the beginning when I had sleepless nights working on my skills in HTML and CSS with frontmentor.io.
 
-I also have learned at school Agile methodology and how to use it in my daily life.
+I also have learned at @theSchoolOfCode  Agile methodology and how to use it in my daily life.
 
 
 **Thoughts**: I had forgotten how fun is to build a website from scratch.
