@@ -148,6 +148,20 @@ I also have learned at @theSchoolOfCode  Agile methodology and how to use it in 
 
 **Thoughts**: I had forgotten how fun is to build a website from scratch.
 
+### Day 19: Oct 11, Tuesday
+
+**Today's Progress**: Shane Downes and I have built a project using as guide the design process. Empathise, define, ideate, prototype and test. As Dreamer we created, as realist we tested, as critic we reviewed and as leader we presented.
+
+**Thoughts**: Really enyoing this Week with Shane Downes I have learn so much about design thinking and differents resources to use in the future.
+
+### Day 20: Oct 12, Wednesday
+
+**Today's Progress**: Today I learn how to use Figma to create a prototype of my project and how to combine it with Design Thinking, User Stories and User Journey.
+
+I don't go to lie was not as easy as I thought, but I am sure I will get better with practice.
+
+**Thoughts**: Shane has show me another level of design thinking, I am so grateful for this opportunity.
+
 <!-- ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
 
@@ -156,7 +170,6 @@ I also have learned at @theSchoolOfCode  Agile methodology and how to use it in 
 **Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
 
 **Link(s) to work**: [Calculator App](http://www.example.com)
-
 
 ### Day 1: June 27, Monday
 
