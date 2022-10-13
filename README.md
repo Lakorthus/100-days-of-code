@@ -162,6 +162,16 @@ I don't go to lie was not as easy as I thought, but I am sure I will get better 
 
 **Thoughts**: Shane has show me another level of design thinking, I am so grateful for this opportunity.
 
+
+### Day 21: Oct 13, Thursday
+
+**Today's Progress**: Today at School Of Code we learn with Helena Archer more about #css grid and flex to create a more consistent #design to help the user to navigate throughout the website and have a better experience. 
+
+The #communication of my team was not the best at the beginning of the project today, but we managed to solve it and work as a #team.
+
+**Thoughts**: I never thought to said that I am missing javascript, but I am.
+
+
 <!-- ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
 
