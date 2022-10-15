@@ -95,8 +95,7 @@ We continue developing our teamwork skills today was working with JavaScript Obj
 
 ### Day 12: Oct 04, Thuesday
 
-**Today's Progress**: Very encouraging talk from one of SoC mentors ! 
-Working with DOM and feeling like I know what I am doing a little bit more  specially with:
+**Today's Progress**: Very encouraging talk from one of SoC mentors! Working with DOM and feeling like I know what I am doing a little bit more  specially with:
 
 .addEventListener()
 .querySelector()
@@ -107,7 +106,7 @@ Working with DOM and feeling like I know what I am doing a little bit more  spec
 
 **Today's Progress**: I have learned about asynchronous functions, timers and promises, fetching data from an API and using it to display on the DOM. 
 
-**Thoughts**: Positive actitud and a lot of energy to keep going. A meeting with my mentor left me feeling more confident about my future as a developer.
+**Thoughts**: Positive attitude and a lot of energy to keep going. A meeting with my mentor left me feeling more confident about my future as a developer.
 
 ### Day 14: Oct 06, Thursday
 
@@ -145,7 +144,6 @@ Using mostly JavaScript and few lines of HTML and CSS.
 
 I also have learned at @theSchoolOfCode  Agile methodology and how to use it in my daily life.
 
-
 **Thoughts**: I had forgotten how fun is to build a website from scratch.
 
 ### Day 19: Oct 11, Tuesday
@@ -162,7 +160,6 @@ I don't go to lie was not as easy as I thought, but I am sure I will get better 
 
 **Thoughts**: Shane has show me another level of design thinking, I am so grateful for this opportunity.
 
-
 ### Day 21: Oct 13, Thursday
 
 **Today's Progress**: Today at School Of Code we learn with Helena Archer more about #css grid and flex to create a more consistent #design to help the user to navigate throughout the website and have a better experience. 
@@ -170,6 +167,26 @@ I don't go to lie was not as easy as I thought, but I am sure I will get better 
 The #communication of my team was not the best at the beginning of the project today, but we managed to solve it and work as a #team.
 
 **Thoughts**: I never thought to said that I am missing javascript, but I am.
+
+### Day 22: Oct 14, Friday
+
+**Today's Progress**: Hackaton day, finally our project is ready to be presented. We have created a website for a fictional company called 'Lemonup' to help people to teach people to have a better life growing lemons.
+
+We did a small presentation of the process we followed to create the website and the challenges we faced. I am very happy with the first result as we still need to incorporate some features and I am looking forward to the next hackathon.
+
+**Thoughts**: I am so proud of my team, we have worked so hard to get to this point. This week with Shane Downes has been amazing, now I know how to work with a perfect team and I am so grateful for this opportunity.
+
+
+### Day 23: Oct 15, Saturday
+
+**Today's Progress**: Figma is a great tool to create a prototype of your project, doing the recap of this week I think I have learned a lot about design thinking and how to use the tools available to create a better user experience.
+
+**Thoughts**: I need to keep practising to get better at it.
+
+### Day 24: Oct 16, Sunday
+**Today's Progress**: 
+
+**Thoughts**:
 
 
 <!-- ### Day 0: February 30, 2016 (Example 2)
