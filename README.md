@@ -184,10 +184,19 @@ We did a small presentation of the process we followed to create the website and
 **Thoughts**: I need to keep practising to get better at it.
 
 ### Day 24: Oct 16, Sunday
-**Today's Progress**: 
+**Today's Progress**: I design my low fidelity prototype using Figma, I have learned a lot about the importance of empathy and how to use it to create a better user experience.
 
-**Thoughts**:
+**Thoughts**: I am so greatful of all the supoort I have received from my team mates and mentors.
 
+### Day 25: Oct 17, Monday
+
+**Today's Progress**: Arshi Sheikh one of our super coaches @theSchoolOfCode tough us how to use the console to debug my code and how to use the debugger to find the errors. I also learned about node.js and how to use it to run our code.
+
+**Thoughts**: I am looking forward to the hackathon because, for the first time, I am in a big team.
+
+I always believed that people well organised could be more efficient.
+
+I receive the Team meeting for Monday to discuss our final project.
 
 <!-- ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
