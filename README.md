@@ -196,7 +196,13 @@ We did a small presentation of the process we followed to create the website and
 
 I always believed that people well organised could be more efficient.
 
-I receive the Team meeting for Monday to discuss our final project.
+I receive the Team meeting for Monday to discuss our final project
+
+### Day 26: Oct 18, Tuesday
+
+**Today's Progress**: Node.js is great for running our code, installing packages and using them in our projects. I have learned how to use the package manager npm to install packages and how to use them in my code, focusing today on Fs Module to read and write files and an introduction to express.js.
+
+**Thoughts**: Great day with my team mates, we have decided to wait until all the team understands the material before moving forward.
 
 <!-- ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
