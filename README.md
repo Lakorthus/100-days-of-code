@@ -204,6 +204,11 @@ I receive the Team meeting for Monday to discuss our final project
 
 **Thoughts**: Great day with my team mates, we have decided to wait until all the team understands the material before moving forward.
 
+### Day 27: Oct 19, Wednesday
+
+**Today's Progress**: CRUD stands for Create, Read, Update and Delete. I have learned how to use the express.js framework to create a server and how to use it to create a CRUD application using postman to test the endpoints.
+
+**Thoughts**: Difficult day, I have been struggling with the material. Definitely I need to keep practising backend to get better at it.
 <!-- ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
 
