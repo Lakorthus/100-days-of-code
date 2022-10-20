@@ -209,6 +209,13 @@ I receive the Team meeting for Monday to discuss our final project
 **Today's Progress**: CRUD stands for Create, Read, Update and Delete. I have learned how to use the express.js framework to create a server and how to use it to create a CRUD application using postman to test the endpoints.
 
 **Thoughts**: Difficult day, I have been struggling with the material. Definitely I need to keep practising backend to get better at it.
+
+### Day 28: Oct 20, Thursday
+
+**Today's Progress**: Use of express.js to create our routes and endpoints for our CRUD application. I struggled a lot with the material, but I am sure I will get better with practice and the unconditional support of my teammates.
+
+**Thoughts**: I have to go back to the basics and keep practising to get better at it.
+
 <!-- ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
 
