@@ -216,6 +216,24 @@ I receive the Team meeting for Monday to discuss our final project
 
 **Thoughts**: I have to go back to the basics and keep practising to get better at it.
 
+### Day 29: Oct 21, Friday
+
+**Today's Progress**: Hackathon day, we have created a CRUD application to manage a list of recipes. We have used express.js to create our routes and endpoints and postman to test them.
+
+**Thoughts**: I am so proud of my team, we have worked so hard to get to this point. I struggled with the material, so I decided to go back to the basics and keep practising to get better at it.
+
+### Day 30: Oct 22, Saturday
+
+**Today's Progress**:  I started with the recaps task from last week, I broke my hackathon project into small tasks and have started to work on them testing each one of the endpoints.
+
+**Thoughts**: I am so proud of myself as I have been able to create a CRUD application using express.js and postman. I had a lot of bugs but now I know how to fix them without breaking the code or my head.
+
+### Day 31: Oct 23, Sunday
+
+**Today's Progress**: I have finished the recaps task from last week, creating a CRUD application to manage a list of users. I have used express.js to connect the routes and endpoints and postman to test them.
+
+**Thoughts**: I am so proud of myself as I have been able to create a CRUD application using express.js and postman. I had a lot of bugs, but now I know how to fix them without breaking the code or my head.
+
 <!-- ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
 
