@@ -234,6 +234,12 @@ I receive the Team meeting for Monday to discuss our final project
 
 **Thoughts**: I am so proud of myself as I have been able to create a CRUD application using express.js and postman. I had a lot of bugs, but now I know how to fix them without breaking the code or my head.
 
+### Day 32: Oct 24, Monday
+
+**Today's Progress**: I had the pleasure hear a guest speaker from the industry, Stuart Langridge. He talked about his journey as a developer and how he started his career. He also did emphasis about the importance of learning new skills and how to keep reviewing. Soon after the real work began, I started learning about databases and how to use them in our projects SQL and NoSQL, focusing today on SQL.
+
+**Thoughts**: It is going to be a great week as I am with one of the best coders I have met Jason Chalangary, looking forward to learning from him.
+
 <!-- ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
 
