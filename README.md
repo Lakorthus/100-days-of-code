@@ -240,6 +240,15 @@ I receive the Team meeting for Monday to discuss our final project
 
 **Thoughts**: It is going to be a great week as I am with one of the best coders I have met Jason Chalangary, looking forward to learning from him.
 
+### Day 33: Oct 25, Tuesday
+
+**Today's Progress**: Today I had the opportunity to hear one of the people I had to thank most as a developer, Katie Hawcutt, sadly I could not thank her for her work documenting her journey as a developer on her Github, thanks to her I have been able to learn so much about the documentation, CSS and the deepest understanding about the journey I was about to begin as a developer in the School Of Code.
+
+Thank you, Katie.
+
+**Thoughts**: I am so grateful for the opportunity to learn from the best.
+
+
 <!-- ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
 
