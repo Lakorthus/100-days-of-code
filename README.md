@@ -248,6 +248,11 @@ Thank you, Katie.
 
 **Thoughts**: I am so grateful for the opportunity to learn from the best.
 
+### Day 34: Oct 26, Wednesday
+
+**Today's Progress**: I have learned how to use SQL to create a database and how to use it to create a CRUD application using postman to test the endpoints.
+
+**Thoughts**: Hanza is a great coach, he always has a solution for every problem, at the personal level he is a great person and I am so grateful for the opportunity to learn from him.
 
 <!-- ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
