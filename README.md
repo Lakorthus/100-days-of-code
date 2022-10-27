@@ -254,6 +254,13 @@ Thank you, Katie.
 
 **Thoughts**: Hanza is a great coach, he always has a solution for every problem, at the personal level he is a great person and I am so grateful for the opportunity to learn from him.
 
+### Day 35: Oct 27, Thursday
+
+**Today's Progress**: I managed to finish the CRUD application using SQL, PostgreSQL and postman. It was a tough day, but I am delighted with the result. I had time to explore the documentation of the PostgreSQL package looking forward to the next hackathon.
+
+**Thoughts**: Aidan is a great coach, he always has a solution for every problem, at the personal level he is a great person and I am so grateful for the opportunity to learn from him.
+
+
 <!-- ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
 
