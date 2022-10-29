@@ -260,6 +260,17 @@ Thank you, Katie.
 
 **Thoughts**: Aidan is a great coach, he always has a solution for every problem, at the personal level he is a great person and I am so grateful for the opportunity to learn from him.
 
+### Day 36: Oct 28, Friday
+
+**Today's Progress**: On Hackathon day, we created a CRUD application to manage a list of clients and products. We have used SQL, PostgreSQL and postman to build our database and test the endpoints. Jason was a great partner this week, he is a great coder, and I am so grateful for the opportunity to learn from him.
+
+**Thoughts**: I am so proud of my team, we have worked so hard to get to this point. I struggled with the material, so I decided to go back to the basics and keep practising to get better at it.
+
+### Day 37: Oct 29, Saturday
+
+**Today's Progress**: I started with the recaps task from last week, I broke my hackathon project into small tasks and have started to work on them testing each one of the endpoints.
+
+**Thoughts**: Week 5 is finished where all the time goes? I am so proud of myself as I have been able to create a CRUD application using SQL, PostgreSQL and postman. I had a lot of bugs, but now I know how to fix them without breaking the code or my head.
 
 <!-- ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
