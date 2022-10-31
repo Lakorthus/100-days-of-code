@@ -272,6 +272,18 @@ Thank you, Katie.
 
 **Thoughts**: Week 5 is finished where all the time goes? I am so proud of myself as I have been able to create a CRUD application using SQL, PostgreSQL and postman. I had a lot of bugs, but now I know how to fix them without breaking the code or my head.
 
+### Day 38: Oct 30, Sunday
+
+**Today's Progress**: I have create a Diary with mongoDB, mongoose and postman. I have learned how to use the mongoose package to create a schema and how to use it to create a CRUD application using postman to test the endpoints.
+
+**Thoughts**: Sunday Chill day, I have been able to create a CRUD application using mongoDB, mongoose and postman.
+
+### Day 39: Oct 31, Monday
+
+**Today's Progress**: Intro to jest and how to use it to test our code. It allows you to write tests with an approachable, familiar and feature-rich API that gives you results quickly. I can't wait to start using it in my projects.
+
+**Thoughts**: I am happy today as I am really aware of how much I like coding and how much I want to be a developer.
+
 <!-- ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
 
