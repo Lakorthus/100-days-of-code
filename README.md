@@ -284,6 +284,13 @@ Thank you, Katie.
 
 **Thoughts**: I am happy today as I am really aware of how much I like coding and how much I want to be a developer.
 
+### Day 40: Nov 1, Tuesday
+
+**Today's Progress**:  Debugging and Testing are part of the development process. Now we are transitioning to debugging our code from using Jest forward to Cypress, which is a next-generation front-end testing tool built for the modern web, looking forward to learning more about it.
+
+**Thoughts**: I had a small issue with myself as I was frustrated with one of the tasks, I asked for help and I got it, I am so grateful for the support of my teammates.
+
+
 <!-- ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
 
