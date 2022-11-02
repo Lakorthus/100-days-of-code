@@ -290,6 +290,11 @@ Thank you, Katie.
 
 **Thoughts**: I had a small issue with myself as I was frustrated with one of the tasks, I asked for help and I got it, I am so grateful for the support of my teammates.
 
+### Day 41: Nov 2, Wednesday
+
+**Today's Progress**: Jest is a delightful JavaScript Testing Framework with a focus on simplicity. I have learned how to use it to test our code. It allows you to write tests with an approachable, familiar and feature-rich API that gives you results quickly. I can't wait to start using it in my projects.
+
+**Thoughts**: Wednesday is always a tough day, but I am so grateful for the support of my teammates.
 
 <!-- ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
