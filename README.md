@@ -296,6 +296,13 @@ Thank you, Katie.
 
 **Thoughts**: Wednesday is always a tough day, but I am so grateful for the support of my teammates.
 
+### Day 42: Nov 3, Thursday
+
+**Today's Progress**: Today I went deeper into the documentation of the jest package looking forward to the next hackathon.
+
+**Thoughts**: Aidan is a great coach, he always has a solution for every problem, at the personal level he is a great person and I am so grateful for the opportunity to learn from him.
+
+
 <!-- ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
 
