@@ -302,6 +302,30 @@ Thank you, Katie.
 
 **Thoughts**: Aidan is a great coach, he always has a solution for every problem, at the personal level he is a great person and I am so grateful for the opportunity to learn from him.
 
+### Day 43: Nov 4, Friday
+
+**Today's Progress**: On Hackathon day, we created a CRUD application to manage a list of clients and products. We have used jest to test our code. Bee was a great partner this week, she is a great person, and I am so grateful for the opportunity to be wwith her.
+
+**Thoughts**: I struggled with the material, so I decided to go back to the basics and keep practising to get better at it.
+
+### Day 44: Nov 5, Saturday
+
+**Today's Progress**: I started with the recaps task from last week, I broke my hackathon project into small tasks and have started to work on them testing each one of the endpoints.
+
+**Thoughts**: Week 6 is finished where all the time goes? I am so proud of myself as I have been able to create a CRUD application using jest to test our code. I had a lot of bugs, but now I know how to fix them without breaking the code or my head.
+
+### Day 45: Nov 6, Sunday
+
+**Today's Progress**: Today was a chill day, I consolidated my knowledge about the jest package and I have started to learn about the cypress package.
+
+**Thoughts**: I thought I was going to have a tough day, but I had a great time reviewing the material and learning about the cypress package.
+
+### Day 46: Nov 7, Monday
+
+**Today's Progress**: Introduction to React and how to use it to create a simple React application. I will start building a Chees board game multiplayer with a backend with @couchbase. Any ideas about where to host it?
+
+**Thoughts**: Finally I could undestand what is React and how to use the props to create a simple React application. 
+
 
 <!-- ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
