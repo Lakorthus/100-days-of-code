@@ -326,6 +326,13 @@ Thank you, Katie.
 
 **Thoughts**: Finally I could undestand what is React and how to use the props to create a simple React application. 
 
+### Day 47: Nov 8, Tuesday
+
+**Today's Progress**: I have learned how to use the React package to create a simple Movie application. I have learned how to use the props to create a simple React application.
+
+**Thoughts**: Everyday I am learning more and more about React, I am so grateful for the support of the School of Code team.
+
+
 
 <!-- ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
