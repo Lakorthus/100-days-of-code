@@ -338,6 +338,12 @@ Thank you, Katie.
 
 **Thoughts**: Love to be able to help my teammates when they are struggling with the material.
 
+### Day 49: Nov 10, Thursday
+
+**Today's Progress**: Weird to think how much I have learned in the last 49 days. Thanks to the School of Code, I have been able to develop my skills and to do it alongside the best team ever is priceless.  
+
+**Thoughts**: 
+
 
 <!-- ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
