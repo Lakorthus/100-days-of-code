@@ -332,6 +332,11 @@ Thank you, Katie.
 
 **Thoughts**: Everyday I am learning more and more about React, I am so grateful for the support of the School of Code team.
 
+### Day 48: Nov 9, Wednesday
+
+**Today's Progress**: When I start working with React Hooks I was a bit confused, but now I am getting the hang of it. I have learned how to use the useState hooks to create a simple React application.
+
+**Thoughts**: Love to be able to help my teammates when they are struggling with the material.
 
 
 <!-- ### Day 0: February 30, 2016 (Example 2)
