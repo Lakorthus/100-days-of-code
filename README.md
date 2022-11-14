@@ -352,7 +352,7 @@ Thank you, Katie.
 
 ### Day 51: Nov 12, Saturday
 
-**Today's Progress**: I started with the recaps task from last week, I broke my hackathon project into small tasks and have started to work on them the styling of the application. I also have started building the prototype of a Websites for a local business called 'PizzaArte' located in my area. I am so excited to see the final result.
+**Today's Progress**: I started with the recaps task from last week, I broke my hackathon project into small tasks and have started to work on the styling of the application. I also have started building the prototype of a Websites for a local business called 'PizzaArte' located in my area. I am so excited to see the final result.
 
 **Thoughts**: Week 7 is finished where all the time goes? I am so proud of myself as I have been able to create a to-do list application using React. I had a lot of bugs, but now I know how to fix them without breaking the code or my head.
 
@@ -362,11 +362,11 @@ Thank you, Katie.
 
 **Thoughts**: Greatful for the path that I am following, I am so excited to see the final result.
 
-<!-- ### Day 53: Nov 14, Monday
+### Day 53: Nov 14, Monday
 
-**Today's Progress**: 
+**Today's Progress**: We have learned how to use the useEffect hooks to create a simple Pokemon application, and look for the potential use in personals projects.
 
-**Thoughts**:  -->
+**Thoughts**: I am so lucky to be with Jay this week, he is a great person and I am so grateful for the opportunity to learn from him.
 
 <!-- ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
