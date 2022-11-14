@@ -342,8 +342,31 @@ Thank you, Katie.
 
 **Today's Progress**: Weird to think how much I have learned in the last 49 days. Thanks to the School of Code, I have been able to develop my skills and to do it alongside the best team ever is priceless.  
 
-**Thoughts**: 
+**Thoughts**: Can't wait to start working on my final project. Coach meeting today, I am so excited to see what is next.
 
+### Day 50: Nov 11, Friday
+
+**Today's Progress**: On Hackathon day, we created a to-do list application using React. We have used the useState hooks to create a simple React application. I have learned how to use the useState hooks to create a simple React application.
+
+**Thoughts**: I struggled with the material and with the team communication, but I am so grateful that we could solve the issues and finish the project.
+
+### Day 51: Nov 12, Saturday
+
+**Today's Progress**: I started with the recaps task from last week, I broke my hackathon project into small tasks and have started to work on them the styling of the application. I also have started building the prototype of a Websites for a local business called 'PizzaArte' located in my area. I am so excited to see the final result.
+
+**Thoughts**: Week 7 is finished where all the time goes? I am so proud of myself as I have been able to create a to-do list application using React. I had a lot of bugs, but now I know how to fix them without breaking the code or my head.
+
+### Day 52: Nov 13, Sunday
+
+**Today's Progress**: Lots of progress with the prototype of a Websites for 'PizzaArte'. I am using Figma to create the prototype, Taildwind for the styling and React for the frontend. I am so excited to see the final result.  
+
+**Thoughts**: Greatful for the path that I am following, I am so excited to see the final result.
+
+<!-- ### Day 53: Nov 14, Monday
+
+**Today's Progress**: 
+
+**Thoughts**:  -->
 
 <!-- ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
