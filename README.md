@@ -368,6 +368,12 @@ Thank you, Katie.
 
 **Thoughts**: I am so lucky to be with Jay this week, he is a great person and I am so grateful for the opportunity to learn from him.
 
+### Day 54: Nov 15, Tuesday
+
+**Today's Progress**: UseReducer used for state management. It is an alternative to useState but much more powerful. I start a tradition of Project Tuesday, with the aim of creating a project every Tuesday, yesterday was the first one.
+
+**Thoughts**: I should have started this tradition earlier, but I need to organise my time better.
+
 <!-- ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
 
