@@ -374,6 +374,17 @@ Thank you, Katie.
 
 **Thoughts**: I should have started this tradition earlier, but I need to organise my time better.
 
+### Day 55: Nov 16, Wednesday
+
+**Today's Progress**: I never thought I would have so much fun learning about Testing with React, using Jest and React Testing Library. As a result, I am implementing a testing strategy for my personals projects and Codigo Club.
+
+**Thoughts**: Enjoying the material and learning about Testing with React, using Jest and React Testing Library.
+<!-- 
+### Day 56: Nov 17, Thursday
+
+**Today's Progress**: 
+
+**Thoughts**:  -->
 <!-- ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
 
