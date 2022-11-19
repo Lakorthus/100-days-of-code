@@ -304,7 +304,7 @@ Thank you, Katie.
 
 ### Day 43: Nov 4, Friday
 
-**Today's Progress**: On Hackathon day, we created a CRUD application to manage a list of clients and products. We have used jest to test our code. Bee was a great partner this week, she is a great person, and I am so grateful for the opportunity to be wwith her.
+**Today's Progress**: On Hackathon day, we created a CRUD application to manage a list of clients and products. We have used jest to test our code. Bee was a great partner this week, she is a great person, and I am so grateful for the opportunity to be with her.
 
 **Thoughts**: I struggled with the material, so I decided to go back to the basics and keep practising to get better at it.
 
@@ -379,12 +379,25 @@ Thank you, Katie.
 **Today's Progress**: I never thought I would have so much fun learning about Testing with React, using Jest and React Testing Library. As a result, I am implementing a testing strategy for my personals projects and Codigo Club.
 
 **Thoughts**: Enjoying the material and learning about Testing with React, using Jest and React Testing Library.
-<!-- 
+
 ### Day 56: Nov 17, Thursday
 
-**Today's Progress**: 
+**Today's Progress**: MVP and MLP are two different approaches to software development and thanks to Agile and Scrum, we can use them to create a better product.
 
-**Thoughts**:  -->
+**Thoughts**: We had a great time learning about MVP and MLP, I am so grateful for the support of my teammates.
+
+### Day 57: Nov 18, Friday
+
+**Today's Progress**: On Hackathon day, we created a Weather app using React. We have used the useEffect and useState hooks to consume the OpenWeather API.
+
+**Thoughts**: Jay has been a great partner this week, he is a great person, and I am so grateful for the opportunity to be with him.
+
+### Day 58: Nov 19, Saturday
+
+**Today's Progress**: I build a Weather app using #React, using useEffect and useState🪝to consume the OpenWeather API. I use CSS to make it look 🔥  and 📱💻 friendly. The test environment was set up using #Jest and React Testing Library.
+
+**Thoughts**: Week 8 is finished where all the time goes? I am so proud of myself as I have been able to create a Weather app using React. I had a lot of bugs, but now I know how to fix them without breaking the code or my head.
+
 <!-- ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
 
