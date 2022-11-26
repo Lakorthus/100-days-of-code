@@ -398,6 +398,57 @@ Thank you, Katie.
 
 **Thoughts**: Week 8 is finished where all the time goes? I am so proud of myself as I have been able to create a Weather app using React. I had a lot of bugs, but now I know how to fix them without breaking the code or my head.
 
+### Day 59: Nov 20, Sunday
+
+**Today's Progress**: I spend the day reviewing all the material from the last 8 weeks, as this week is project week. I am so excited to start working on this project.
+
+**Thoughts**: I am so grateful for the support of the School of Code team.
+
+### Day 60: Nov 21, Monday
+
+**Today's Progress**: We meet the team for the final project, I couldn't be happier to be with this team. We have started to work on the project and we have created the first user stories.
+
+**Thoughts**: Bootcamper Buddy is alive.
+
+### Day 61: Nov 22, Tuesday
+
+**Today's Progress**: We start designing the first high fidelity prototype of the project and structure the project using Agile and Scrum. 
+
+**Thoughts**: Happy to be with this team, we are going to create something amazing.
+
+### Day 62: Nov 23, Wednesday
+
+**Today's Progress**: We start coding our first component with React at this point it feels to ambitious for all our ideas, but we are going to make it.
+
+**Thoughts**: There is not such thing as a silly idea, we are going to make it.
+
+### Day 63: Nov 24, Thursday
+
+**Today's Progress**: We spent most of the day working on the database, we created the first tables and we started to work on the backend of the project we test the connection with the frontend, using jest and superset and morgan.
+
+**Thoughts**: I really enjoy testing and how we all are coming together to make this project a reality.
+
+### Day 64: Nov 25, Friday
+
+**Today's Progress**: Presenting the project to the School of Code team, I couldn't be happier to be with this team. Was a great experience this week, I am so grateful for the support of my teammates and the School of Code team for the opportunity to be part of this project.
+
+**Thoughts**: Really enjoyed working on this project, I am so grateful for the support of my teammates and the School of Code team for the opportunity to be part of this project.
+
+### Day 65: Nov 26, Saturday
+
+**Today's Progress**: Relax day, I have been updating my notes and notion to make it easier to find the information that I need.
+
+**Thoughts**: I am happy to be able to relax and to be able to update my notes and notion to make it easier to find the information that I need.
+
+### Day 66: Nov 27, Sunday
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+
+
+
 <!-- ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
 
