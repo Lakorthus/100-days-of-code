@@ -442,11 +442,51 @@ Thank you, Katie.
 
 ### Day 66: Nov 27, Sunday
 
-**Today's Progress**: 
+**Today's Progress**: Break day, I have been updating my notes and notion to make it easier to find the information that I need.
 
-**Thoughts**: 
+**Thoughts**: Break day, I am happy to be able to relax and to be able to update my notes and notion to make it easier to find the information that I need.
 
+### Day 67: Nov 28, Monday
 
+**Today's Progress**: As a team The L&TheCoolJ's we broke the project in small task to review all the code and make sure that we are all on the same page.
+
+**Thoughts**: I am so grateful for the support of my teammates and the School of Code team for the opportunity to be part of this project.
+
+### Day 68: Nov 29, Tuesday
+
+**Today's Progress**: We implement more testing in our project, we are using Jest and Supertest to test the backend and React Testing Library to test the frontend.
+
+**Thoughts**: I am so grateful for the support of my teammates and the School of Code team for the opportunity to be part of this project.
+
+### Day 69: Nov 30, Wednesday
+
+**Today's Progress**: We are now in the same page, we have reviewed all the code and we are ready to be answer any question that the School of Code team has.
+
+**Thoughts**: Communication is key, I am so grateful for the support of my teammates and the School of Code team for the opportunity to be part of this project.
+
+### Day 70: Dec 1, Thursday
+
+**Today's Progress**: We have been working we Auth0 to implement the login and sign up functionality, we have been using the Auth0 React SDK to make it easier to implement the login and sign up functionality.
+
+**Thoughts**: Is not a really easy topic to understand, but we are going to make it.
+
+### Day 71: Dec 2, Friday
+
+**Today's Progress**: For the Hackthon we have Created a Phonebook agenda app using React, and Auth0 to implement the login and sign up functionality. Still need to work on the styling, testing and how to display the data for each user.
+
+**Thoughts**: I struggle with this subject, as so far I have been using Firebase to implement the login and sign up functionality which I found easier to implement than Auth0 but I like the challenge.
+
+### Day 72: Dec 3, Saturday
+
+**Today's Progress**: I have been working on the styling of the Phonebook agenda app using React, and Auth0 to implement the login and sign up functionality. Still need to work on the testing and how to display the data for each user.
+
+**Thoughts**: I struggle with this subject, as so far I have been using Firebase to implement the login and sign up functionality which I found easier to implement than Auth0 but I like the challenge.
+
+### Day 73: Dec 4, Sunday
+
+**Today's Progress**: I have been working on the testing of the Phonebook agenda app using React, and Auth0 to implement the login and sign up functionality. Still need to work on how to display the data for each user.
+
+**Thoughts**: I struggle with this subject, as so far I have been using Firebase to implement the login and sign up functionality which I found easier to implement than Auth0 but I like the challenge.
 
 
 <!-- ### Day 0: February 30, 2016 (Example 2)
