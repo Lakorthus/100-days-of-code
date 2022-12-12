@@ -488,6 +488,63 @@ Thank you, Katie.
 
 **Thoughts**: I struggle with this subject, as so far I have been using Firebase to implement the login and sign up functionality which I found easier to implement than Auth0 but I like the challenge.
 
+### Day 74: Dec 5, Monday
+
+**Today's Progress**: I have been learning about the React Context API and how to use it to manage the state of the app.
+
+**Thoughts**: I will start building and app with all the hackathons in miniatures, I am so excited to start building it.
+
+### Day 75: Dec 6, Tuesday
+
+**Today's Progress**: We learned how to deploy our backend with Render finally we have our backend deployed. That is a milestone for me.
+
+**Thoughts**: I am so grateful for the support of my teammates and the School of Code team for the opportunity to be part of this project.
+
+### Day 76: Dec 7, Wednesday
+
+**Today's Progress**: We learned how to deploy our backend with Render and how to deploy our frontend with Netlify.
+
+**Thoughts**: I am very happy with all the progress that we have made in these last 11 weeks, I am so grateful for the support of my teammates and the School of Code team for the opportunity to be part of this project.
+
+### Day 77: Dec 8, Thursday
+
+**Today's Progress**: We have been working with CouchDB and how to use it to store the data for our project it looks like a good option to store the data for our project only one side is that we need to pay for the service.
+
+**Thoughts**: Planning something to change my future, I am so grateful for the support of my teammates and the School of Code team for the opportunity to be part of this project.
+
+### Day 78: Dec 9, Friday
+
+**Today's Progress**: Hackathon day, we have been working in a full stack app using React, Node.js, Express, and MongoDB. We have been working on the backend and the frontend and deploying the project on render and netlify.
+
+**Thoughts**: Happy we the result of the project, I am so grateful for the support of my teammates and the School of Code team for the opportunity to be part of this project.
+
+### Day 79: Dec 10, Saturday
+
+**Today's Progress**: Planning After Hours project, to present on Monday for the people interested in joining.
+
+**Thoughts**: Challenging and nerve wrecking, 25 people already signed up for the After Hours project.
+
+### Day 80: Dec 11, Sunday
+
+**Today's Progress**: I have finished the After Hours project proposal, I am so excited to start working on it. I also start working on my project with the hackathons in miniatures.
+
+**Thoughts**: I'm in the zone, I am so excited to start working on my project with the hackathons in miniatures and tomorrow I will deliver the proposal for the After Hours project.
+
+### Day 81: Dec 12, Monday
+
+**Today's Progress**: CouchBase Workshop, I have learned how to use CouchBase to store the data for our project.
+
+**Thoughts**: Grateful for the opportunity to learn new technologies, that only can help me to improve my skills
+
+### Day 82: Dec 13, Tuesday
+
+**Today's Progress**:
+
+**Thoughts**: 
+
+
+
+
 
 <!-- ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
